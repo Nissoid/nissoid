@@ -1,25 +1,76 @@
-# ¡Hola! Soy Daniel 👋
-### Software Developer | Entusiasta de la Ciberseguridad y la Lógica Algorítmica
+# Daniel Avilés Martínez 👋
 
-Actualmente combinando mi formación superior en Desarrollo de Aplicaciones Web (DAW) con mi experiencia profesional en el sector. Me apasiona resolver problemas complejos, optimizar algoritmos y crear soluciones de backend eficientes.
+**Software Developer | Cybersecurity Enthusiast | Algorithmic Problem Solver**
 
-## 🛠️ Stack Tecnológico y Áreas de Interés
-*   **Lenguajes de Programación:** Java, Python
-*   **Bases de Datos:** Oracle (con integraciones vía JDBC)
-*   **Ciberseguridad:** Interés activo en gestión de riesgos (Magerit), seguridad en redes industriales (ISA-62443) y frameworks de amenazas (MITRE ATT&CK).
-*   **Lógica y Algoritmia:** Práctica constante en programación competitiva, buscando siempre la máxima eficiencia y analizando la complejidad temporal y espacial (Big O).
+Currently combining my Higher Vocational Training in Web Application Development (DAW) with professional industry experience. Passionate about solving complex problems, optimizing algorithms, and building efficient backend solutions.
 
-🚀 Proyectos Destacados
+## 🛠️ Tech Stack & Areas of Interest
 
-* **Motor RPG Final Fantasy (Java):** Desarrollo de un simulador de combate por turnos para consola aplicando arquitectura MVC, patrón Factory y principios SOLID (SRP). Incluye gestión dinámica de memoria de personajes, inventario acoplado débilmente y una fábrica de entidades escalable.
-* **API Marvel (Python & Oracle):** Desarrollo de una API en Python para gestionar y filtrar una base de datos de personajes, completamente integrada con un backend de Oracle.
-* **Lógica de Juegos en Java:** Implementación algorítmica de un juego interactivo de "palillos", enfocado en el manejo eficiente de estructuras de datos y lógica de movimientos.
-* **Resolución de Algoritmos:** Análisis y desarrollo de soluciones con complejidad óptima O(n) para desafíos clásicos como conversiones numéricas y subsecuencias incrementales.
+### Programming Languages
+- Java
+- Python
 
-## 🌍 Idiomas y Experiencia
-*   **Español:** Nativo
-*   **Inglés:** Intermedio (Fortalecido tras un año de experiencia laboral inmersiva en Países Bajos).
+### Databases
+- Oracle Database
+- JDBC Integration
 
-## 📫 Cómo contactarme
-*   LinkedIn: www.linkedin.com/in/daniel-aviles-martinez
-*   Email: daniel.aviles.dev@gmail.com
+### Cybersecurity
+- Risk Management (MAGERIT)
+- Industrial Network Security (ISA/IEC 62443)
+- Threat Modeling & Analysis (MITRE ATT&CK)
+
+### Algorithms & Problem Solving
+- Competitive Programming
+- Time and Space Complexity Analysis (Big O)
+- Data Structures & Optimization
+- Algorithm Design and Performance Tuning
+
+---
+
+## 🚀 Featured Projects
+
+### Final Fantasy RPG Battle Engine (Java)
+Development of a turn-based combat simulator inspired by the Final Fantasy saga. Built using:
+- MVC Architecture
+- Factory Design Pattern
+- SOLID Principles (SRP)
+- Dynamic Character Management
+- Inventory System with Loose Coupling
+- Scalable Entity Factory Architecture
+
+### Marvel API (Python & Oracle)
+Designed and developed a Python API for managing and filtering a Marvel character database integrated with an Oracle backend.
+- Oracle Database Integration
+- Data Filtering and Query Optimization
+- REST-Oriented Architecture
+
+### Java Game Logic – Stick Game
+Implementation of an interactive stick-removal game focused on:
+- Efficient Data Structure Management
+- Game Logic Design
+- Algorithmic Decision-Making
+
+### Algorithm Challenges & Optimization
+Development of optimal solutions for classic algorithmic problems, including:
+- Numerical Conversions
+- Longest Increasing Subsequences
+- Complexity Analysis
+- O(n) Solution Design
+
+---
+
+## 🌍 Languages
+
+- 🇪🇸 Spanish — Native
+- 🇬🇧 English — Intermediate (strengthened through one year of professional experience in the Netherlands)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: <www.linkedin.com/in/daniel-aviles-martinez>
+- Email: <daniel.aviles.dev@gmail.com>
+
+---
+
+> *"Code is not only about making things work, but about making them scalable, maintainable, and efficient."*
