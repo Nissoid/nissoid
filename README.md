@@ -68,7 +68,7 @@ Development of optimal solutions for classic algorithmic problems, including:
 
 ## 📫 Contact
 
-- LinkedIn: <www.linkedin.com/in/daniel-aviles-martinez>
+- LinkedIn: www.linkedin.com/in/daniel-aviles-martinez
 - Email: <daniel.aviles.dev@gmail.com>
 
 ---
