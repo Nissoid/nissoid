@@ -9,6 +9,7 @@ Currently combining my Higher Vocational Training in Web Application Development
 ### Programming Languages
 - Java
 - Python
+- SQL
 
 ### Databases
 - Oracle Database
