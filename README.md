@@ -14,11 +14,6 @@ Currently combining my Higher Vocational Training in Web Application Development
 - Oracle Database
 - JDBC Integration
 
-### Cybersecurity
-- Risk Management (MAGERIT)
-- Industrial Network Security (ISA/IEC 62443)
-- Threat Modeling & Analysis (MITRE ATT&CK)
-
 ### Algorithms & Problem Solving
 - Competitive Programming
 - Time and Space Complexity Analysis (Big O)
