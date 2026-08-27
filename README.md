@@ -1,6 +1,6 @@
 # Daniel Avilés Martínez 👋
 
-**Software Developer | Cybersecurity Enthusiast | Algorithmic Problem Solver**
+**Software Developer | DAW Student**
 
 Currently combining my Higher Vocational Training in Web Application Development (DAW) with professional industry experience. Passionate about solving complex problems, optimizing algorithms, and building efficient backend solutions.
 
